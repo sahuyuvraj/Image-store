@@ -8,4 +8,4 @@ just practicing firebase storage facility
 https://uploadingfile-3d0bc.web.app
 
 ## Screenshot
-![App Screenshot](img/Screenshot%20.png)
+![App Screenshot](img/Screenshot.png)
